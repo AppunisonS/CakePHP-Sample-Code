@@ -1,0 +1,1 @@
+<div id="loaderID" style="z-index: 100;"><?php echo $this->Html->image(LISTING_ICON_LOADER_MAIN,array('width'=>60)); ?></div>
